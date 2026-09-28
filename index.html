@@ -20,7 +20,8 @@
     button:hover { background: #444; }
     button:active { transform: scale(.96); }
     button:focus-visible { outline: 3px solid #9a8a69; outline-offset: 3px; }
-    #status { min-height: 24px; margin-top: 24px; color: #376648; font-weight: 600; }
+    #status { position: fixed; left: 50%; bottom: 20px; transform: translateX(-50%); width: min(640px, calc(100% - 32px)); max-height: 50vh; overflow: auto; margin: 0; padding: 18px 20px; border-radius: 12px; background: #222; color: white; box-shadow: 0 12px 36px #0003; white-space: pre-wrap; overflow-wrap: anywhere; line-height: 1.45; z-index: 1; }
+    #status:empty { display: none; }
     @media (max-width: 460px) { .row { gap: 12px; } button { padding-inline: 15px; } }
   </style>
 </head>
@@ -36,6 +37,12 @@
     const container = document.querySelector('#categories');
     const status = document.querySelector('#status');
     let lastIndex = {};
+    let statusTimeout;
+    function showStatus(text) {
+      clearTimeout(statusTimeout);
+      status.textContent = text;
+      statusTimeout = setTimeout(() => { status.textContent = ''; }, 3000);
+    }
     function copyFallback(text) {
       const field = document.createElement('textarea');
       field.value = text;
@@ -77,11 +84,11 @@
             copyFallback(descriptions[index]);
           }
           lastIndex[category] = index;
-          status.textContent = `Skopiowano opis z kategorii „${category}”.`;
+          showStatus(descriptions[index]);
           button.textContent = 'Skopiowano';
           setTimeout(() => { button.textContent = 'Kopiuj'; }, 1600);
         } catch {
-          status.textContent = 'Nie udało się skopiować. Spróbuj ponownie w przeglądarce.';
+          showStatus('Nie udało się skopiować. Spróbuj ponownie w przeglądarce.');
         }
       });
       row.append(label, button);
