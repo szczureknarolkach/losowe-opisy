@@ -362,5 +362,27 @@ window.DESCRIPTIONS = {
     "these photo apps in 2026 make my daily work easier. if you want pose ideas, great light, or better phone video, these apps are a great fit. i use them regularly, and they really make a difference for quick editing or planning photos on location. see what is worth keeping on your phone. #photography #photographyapps #contentcreation",
     "photography apps for 2026 that make my work easier every day. if you need something for planning shoots or quick editing, these tools will save you plenty of time. from posing people to tracking the sun and shooting professional-looking video on your phone. check them out because they are worth keeping handy on every trip. #photography #photographyapps #videocreating",
     "photography apps you need to know in 2026. i tested a few tools, and these ones really make shooting on location and editing easier. Pozer helps when I run out of ideas for posing my subject, and Sun Tracker AR helps me plan the light. Unfold offers quick templates, while Lightroom is the classic everyone knows. check them out before your next photo shoot. #photography #photographyapps #contentcreation"
+  ],
+  "Decide Poses": [
+    "I can decide with the photographer which poses I want for the shoot 🥹 ❤️\n🇺🇸 🇩🇪 🇬🇧\n#californiawedding #texaswedding #posingtips #posing",
+    "I can choose with the photographer which poses I want for the shoot 🥹 ❤️\n🇺🇸 🇩🇪 🇬🇧\n#californiawedding #texaswedding #posingtips #posing",
+    "I can decide together with the photographer which poses I want for our shoot 🥹 ❤️\n🇺🇸 🇩🇪 🇬🇧\n#californiawedding #texaswedding #posingtips #posing",
+    "I can pick with the photographer which poses I want for the photoshoot 🥹 ❤️\n🇺🇸 🇩🇪 🇬🇧\n#californiawedding #texaswedding #posingtips #posing",
+    "I can choose together with the photographer which poses I want for our photoshoot 🥹 ❤️\n🇺🇸 🇩🇪 🇬🇧\n#californiawedding #texaswedding #posingtips #posing",
+    "I can decide with my photographer which poses I want for the photoshoot 🥹 ❤️\n🇺🇸 🇩🇪 🇬🇧\n#californiawedding #texaswedding #posingtips #posing",
+    "I can pick together with my photographer which poses I want for the shoot 🥹 ❤️\n🇺🇸 🇩🇪 🇬🇧\n#californiawedding #texaswedding #posingtips #posing",
+    "He let me decide on the final posing plan for our photoshoot 😭 😭\n#californiawedding #nycphotographer #posingtips\n🇺🇸 🇩🇪 🇬🇧",
+    "He let me choose the final posing plan for our photoshoot 😭 😭\n#californiawedding #nycphotographer #posingtips\n🇺🇸 🇩🇪 🇬🇧",
+    "He let me pick the final posing plan for our photoshoot 😭 😭\n#californiawedding #nycphotographer #posingtips\n🇺🇸 🇩🇪 🇬🇧",
+    "He let me decide on our final posing plan for the photoshoot 😭 😭\n#californiawedding #nycphotographer #posingtips\n🇺🇸 🇩🇪 🇬🇧",
+    "He let me choose our final posing plan for the shoot 😭 😭\n#californiawedding #nycphotographer #posingtips\n🇺🇸 🇩🇪 🇬🇧",
+    "He let me decide on the final poses for our photoshoot 😭 😭\n#californiawedding #nycphotographer #posingtips\n🇺🇸 🇩🇪 🇬🇧",
+    "He let me pick the final poses for our photoshoot 😭 😭\n#californiawedding #nycphotographer #posingtips\n🇺🇸 🇩🇪 🇬🇧",
+    "I can literally decide the poses for my wedding shoot 😭 😭\n🇩🇪 🇺🇸 🇬🇧\n#californiawedding #posingtips",
+    "I can literally choose the poses for my wedding shoot 😭 😭\n🇩🇪 🇺🇸 🇬🇧\n#californiawedding #posingtips",
+    "I can literally pick the poses for my wedding shoot 😭 😭\n🇩🇪 🇺🇸 🇬🇧\n#californiawedding #posingtips",
+    "I can literally decide on the posing for my wedding photoshoot 😭 😭\n🇩🇪 🇺🇸 🇬🇧\n#californiawedding #posingtips",
+    "I can literally choose the posing for my wedding photoshoot 😭 😭\n🇩🇪 🇺🇸 🇬🇧\n#californiawedding #posingtips",
+    "I can literally pick the poses for my wedding photoshoot 😭 😭\n🇩🇪 🇺🇸 🇬🇧\n#californiawedding #posingtips"
   ]
 };
